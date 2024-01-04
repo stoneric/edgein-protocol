@@ -1,12 +1,15 @@
 # Tokenomics
 
-Token Address:          [2HT3GCwdeT41CASnKZME6pgTh18QtK4Nkx7MVr8ufiwL](https://explorer.solana.com/address/2HT3GCwdeT41CASnKZME6pgTh18QtK4Nkx7MVr8ufiwL)
 
+
+DAO Multisig:       [H5GdfNPaaEjDwoAJkU1CnmpeXKouYM73d7HUULdMrKkW](https://explorer.solana.com/address/H5GdfNPaaEjDwoAJkU1CnmpeXKouYM73d7HUULdMrKkW)
+
+Token Address:    [2HT3GCwdeT41CASnKZME6pgTh18QtK4Nkx7MVr8ufiwL](https://explorer.solana.com/address/2HT3GCwdeT41CASnKZME6pgTh18QtK4Nkx7MVr8ufiwL)
+
+\
 Token Ticker:                          EdgeIn\
 Category:                                Web3 Social\
 Blockchain:                             Solana\
-Fundraising Goal:                  $6,000,000
-
 
 
 Private Sale&#x20;
