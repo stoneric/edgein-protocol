@@ -4,11 +4,13 @@ description: Token details for EdgeIn DAO
 
 # Tokenomics
 
-Token Address:    [2HT3GCwdeT41CASnKZME6pgTh18QtK4Nkx7MVr8ufiwL](https://explorer.solana.com/address/2HT3GCwdeT41CASnKZME6pgTh18QtK4Nkx7MVr8ufiwL)
+Token Address:     [2HT3GCwdeT41CASnKZME6pgTh18QtK4Nkx7MVr8ufiwL](https://explorer.solana.com/address/2HT3GCwdeT41CASnKZME6pgTh18QtK4Nkx7MVr8ufiwL)
 
-DAO Multisig:       [H5GdfNPaaEjDwoAJkU1CnmpeXKouYM73d7HUULdMrKkW](https://explorer.solana.com/address/H5GdfNPaaEjDwoAJkU1CnmpeXKouYM73d7HUULdMrKkW)
+DAO Multisig:        [H5GdfNPaaEjDwoAJkU1CnmpeXKouYM73d7HUULdMrKkW](https://explorer.solana.com/address/H5GdfNPaaEjDwoAJkU1CnmpeXKouYM73d7HUULdMrKkW)
 
-Github: [https://github.com/EdgeIn-DAO/](https://github.com/EdgeIn-DAO/)
+Github:                   [https://github.com/EdgeIn-DAO/](https://github.com/EdgeIn-DAO/)\
+\
+Whitelist:               [https://forms.cogmento.com/form/0b9a5af7-adf8-40f8-9726-f058c3145fc9/zchAJSZLSio4oKi0/](https://forms.cogmento.com/form/0b9a5af7-adf8-40f8-9726-f058c3145fc9/zchAJSZLSio4oKi0/)
 
 \
 Token Ticker:                          EdgeIn\
