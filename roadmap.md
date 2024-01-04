@@ -8,13 +8,13 @@ Jan 2024 - Jun 2024                                                            A
 
 Jul 2024 - Dec 2024                                                            DAO & Public Launch
 
-Jan 2025 - Jun 2025                                                            Data Minting
+Jan 2025 - Jun 2025                                                           Data Minting & Vault
 
 Jul 2025 - Dec 2025                                                            Data Ecosystems
 
 Jan 2026 - Jun 2026                                                           Developer Tools
 
-Jul 2026 - Dec 2026                                                           Data Markets
+Jul 2026 - Dec 2026                                                            Data Markets
 
 Jan 2027 - Jun 2027                                                            Data Farming
 
