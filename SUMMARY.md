@@ -1,6 +1,6 @@
 # Table of contents
 
-* [EdgeIn](README.md)
+* [EdgeIn DAO](README.md)
 * [EdgeIn Protocol](edgein-protocol.md)
 * [EdgeIn, veEdgeIn, Data NFTs](edgein-veedgein-data-nfts.md)
 * [Roadmap](roadmap.md)
