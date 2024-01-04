@@ -1,5 +1,5 @@
 ---
-description: Introducing EdgeIn Protocol
+description: 'Your Data, Your Keys, Your Earnings: The EdgeIn Protocol'
 ---
 
 # EdgeIn
