@@ -1,10 +1,12 @@
+---
+description: Token details for EdgeIn DAO
+---
+
 # Tokenomics
 
-
+Token Address:    [2HT3GCwdeT41CASnKZME6pgTh18QtK4Nkx7MVr8ufiwL](https://explorer.solana.com/address/2HT3GCwdeT41CASnKZME6pgTh18QtK4Nkx7MVr8ufiwL)
 
 DAO Multisig:       [H5GdfNPaaEjDwoAJkU1CnmpeXKouYM73d7HUULdMrKkW](https://explorer.solana.com/address/H5GdfNPaaEjDwoAJkU1CnmpeXKouYM73d7HUULdMrKkW)
-
-Token Address:    [2HT3GCwdeT41CASnKZME6pgTh18QtK4Nkx7MVr8ufiwL](https://explorer.solana.com/address/2HT3GCwdeT41CASnKZME6pgTh18QtK4Nkx7MVr8ufiwL)
 
 Github: [https://github.com/EdgeIn-DAO/](https://github.com/EdgeIn-DAO/)
 
