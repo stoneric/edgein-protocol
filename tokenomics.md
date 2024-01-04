@@ -6,6 +6,8 @@ DAO Multisig:       [H5GdfNPaaEjDwoAJkU1CnmpeXKouYM73d7HUULdMrKkW](https://explo
 
 Token Address:    [2HT3GCwdeT41CASnKZME6pgTh18QtK4Nkx7MVr8ufiwL](https://explorer.solana.com/address/2HT3GCwdeT41CASnKZME6pgTh18QtK4Nkx7MVr8ufiwL)
 
+Github: [https://github.com/EdgeIn-DAO/](https://github.com/EdgeIn-DAO/)
+
 \
 Token Ticker:                          EdgeIn\
 Category:                                Web3 Social\
