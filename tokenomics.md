@@ -21,19 +21,29 @@ Date: Jan 1, 2024 - March 1, 2024&#x20;
 
 
 
-| Stage        | Amount |
-| ------------ | ------ |
-| Private Sale | 5%     |
-| IEO          | 25%    |
-| Treasury     | 20%    |
-| Marketing    | 25%    |
-| Team         | 25%    |
+| Stage                 | Amount |
+| --------------------- | ------ |
+| Private Sale          | 5%     |
+| IEO                   | 25%    |
+| Treasury              | 20%    |
+| Marketing & Community | 25%    |
+| Team                  | 25%    |
 
 
 
 <figure><img src=".gitbook/assets/tokenomics2024.png" alt="" width="563"><figcaption><p>EdgeIn DAO Tokenomics</p></figcaption></figure>
 
+The EdgeIn Tokenomics plans for a private sale, a public sale, and 5 years of operations.
 
+Private Sale:  Up to 5% will be offered to private investors
+
+IEO:  Planned public sale in the future
+
+Treasury:  Withheld from market
+
+Marketing & Community:  5-years of community incentives
+
+Team: 5-years of team incentives
 
 
 
