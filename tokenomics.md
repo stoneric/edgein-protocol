@@ -1,5 +1,5 @@
 ---
-description: Token details for EdgeIn DAO
+description: Token details for EdgeIn
 ---
 
 # Tokenomics
@@ -9,10 +9,7 @@ Token Address:     [2HT3GCwdeT41CASnKZME6pgTh18QtK4Nkx7MVr8ufiwL](https://explor
 DAO Multisig:        [H5GdfNPaaEjDwoAJkU1CnmpeXKouYM73d7HUULdMrKkW](https://explorer.solana.com/address/H5GdfNPaaEjDwoAJkU1CnmpeXKouYM73d7HUULdMrKkW)
 
 Github:                   [https://github.com/EdgeIn-DAO/](https://github.com/EdgeIn-DAO/)\
-\
-Whitelist:               [https://forms.cogmento.com/form/0b9a5af7-adf8-40f8-9726-f058c3145fc9/zchAJSZLSio4oKi0/](https://forms.cogmento.com/form/0b9a5af7-adf8-40f8-9726-f058c3145fc9/zchAJSZLSio4oKi0/)
-
-\
+Whitelist:               [Whitelist Form](https://co11.co/8FSo7)\
 Token Ticker:                          EdgeIn\
 Category:                                Web3 Social\
 Blockchain:                             Solana\
@@ -22,19 +19,26 @@ Private Sale&#x20;
 
 Date: Jan 1, 2024 - March 1, 2024&#x20;
 
-Price:   $0.12\
-Tokens for Sale: 50,000,000 \
-Raising: $6,000,000&#x20;
+
 
 | Stage        | Amount |
 | ------------ | ------ |
 | Private Sale | 5%     |
 | IEO          | 25%    |
-| Treasury     | 35%    |
-| Marketing    | 10%    |
+| Treasury     | 20%    |
+| Marketing    | 25%    |
 | Team         | 25%    |
 
 
 
-<figure><img src=".gitbook/assets/Screenshot 2024-01-04 at 6.20.27 AM.png" alt="" width="563"><figcaption><p>EdgeIn DAO Tokenomics</p></figcaption></figure>
+<figure><img src=".gitbook/assets/tokenomics2024.png" alt="" width="563"><figcaption><p>EdgeIn DAO Tokenomics</p></figcaption></figure>
 
+
+
+
+
+
+
+
+
+© 2024 EdgeIn Foundation
