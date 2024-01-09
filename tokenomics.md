@@ -15,9 +15,9 @@ Category:                                Web3 Social\
 Blockchain:                             Solana\
 
 
-Private Sale&#x20;
+Private Rounds&#x20;
 
-Date: Jan 1, 2024 - March 1, 2024&#x20;
+Jan 1, 2024 - Dec 31, 2024&#x20;
 
 
 
