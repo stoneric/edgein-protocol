@@ -35,9 +35,9 @@ Jan 1, 2024 - Dec 31, 2024&#x20;
 
 The EdgeIn Tokenomics plans for a private sale, a public sale, and 5 years of operations.
 
-Private Sale:  Up to 5% will be offered to private investors
+Private Rounds:  Up to 25% will be offered to private investors
 
-IEO:  Planned public sale in the future
+Public Launch:  Planned public sale in the future
 
 Treasury:  Withheld from market
 
