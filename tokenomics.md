@@ -31,7 +31,7 @@ Jan 1, 2024 - Dec 31, 2024&#x20;
 
 
 
-<figure><img src=".gitbook/assets/tokenomics2024.png" alt="" width="563"><figcaption><p>EdgeIn DAO Tokenomics</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot 2024-01-09 at 11.27.10 AM.png" alt="" width="563"><figcaption><p>EdgeIn DAO Tokenomics</p></figcaption></figure>
 
 The EdgeIn Tokenomics plans for a private sale, a public sale, and 5 years of operations.
 
