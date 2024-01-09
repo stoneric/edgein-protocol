@@ -23,8 +23,8 @@ Date: Jan 1, 2024 - March 1, 2024&#x20;
 
 | Stage                 | Amount |
 | --------------------- | ------ |
-| Private Sale          | 5%     |
-| IEO                   | 25%    |
+| Private Rounds        | 25%    |
+| Public Launch         | 5%     |
 | Treasury              | 20%    |
 | Marketing & Community | 25%    |
 | Team                  | 25%    |
@@ -51,4 +51,4 @@ Team: 5-years of team incentives
 
 
 
-© 2024 EdgeIn Foundation
+© 2024 EdgeIn Foundation&#x20;
