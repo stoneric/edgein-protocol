@@ -51,4 +51,4 @@ Team: 5-years of team incentives
 
 
 
-© 2024 EdgeIn Foundation&#x20;
+© 2024 EdgeInDAO Limited&#x20;
