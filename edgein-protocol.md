@@ -14,4 +14,4 @@ EdgeIn smart contracts are programs that run on the Solana blockchain, the EdgeI
 
 
 
-© 2024 EdgeIn Foundation
+© 2024 EdgeInDAO Limited
