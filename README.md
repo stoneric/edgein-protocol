@@ -26,4 +26,4 @@ EdgeIn assets can be valued on a timeframe of 1-1200 months and provide incentiv
 
 
 
-© 2024 EdgeIn Foundation
+© 2024 EdgeInDAO Limited
