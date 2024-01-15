@@ -65,4 +65,4 @@ veEdgeIn multiplier up to 20x for 5-year increments (20 x 5 = 100) with no incen
 
 
 
-© 2024 EdgeIn Foundation
+© 2024 EdgeInDAO Limited
