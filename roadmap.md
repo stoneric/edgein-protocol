@@ -57,4 +57,4 @@ Cross-Chain Features
 
 
 
-© 2024 EdgeIn Foundation
+© 2024 EdgeInDAO Limited
