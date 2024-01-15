@@ -9,7 +9,9 @@ Token Address:     [2HT3GCwdeT41CASnKZME6pgTh18QtK4Nkx7MVr8ufiwL](https://explor
 DAO Multisig:        [H5GdfNPaaEjDwoAJkU1CnmpeXKouYM73d7HUULdMrKkW](https://explorer.solana.com/address/H5GdfNPaaEjDwoAJkU1CnmpeXKouYM73d7HUULdMrKkW)
 
 Github:                   [https://github.com/EdgeIn-DAO/](https://github.com/EdgeIn-DAO/)\
-Whitelist:               [Whitelist Form](https://co11.co/NfK9Q)\
+Whitelist:               [Whitelist Form](https://co11.co/NfK9Q)
+
+\
 Token Ticker:                          EdgeIn\
 Category:                                Web3 Social\
 Blockchain:                             Solana\
