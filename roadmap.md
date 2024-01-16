@@ -22,36 +22,7 @@ Jul 2027 - Dec 2027                                                            C
 
 
 
-Airdrop & Earlybird Staking
 
-EdgeIn members will have the option of claiming and staking EdgeIn in Q1 2024.
-
-\
-DAO Governance, Community Voting
-
-DAO governance and community voting features (on-chain) to support data validation.
-
-Data Minting & Data Vault
-
-Data NFT Minting is planned to launch in 2025 along with Data Vaults, decentralized end-to-end encrypted, decentralized databases.
-
-Data Ecosystems
-
-
-
-Developer Tools
-
-
-
-Data Markets
-
-
-
-Data Farms
-
-
-
-Cross-Chain Features
 
 
 
