@@ -4,11 +4,11 @@ description: 'Your Data, Your Keys, Your Earnings: The EdgeIn Protocol'
 
 # EdgeIn
 
-Edgein Protocol controls data access for value, paying users with its Solana-based Token to validate and stake data and earn.   The EdgeIn Protocol allows users to publish, exchange, and consume data in a sustainable economic framework using decentralized technologies. &#x20;
+Edgein Protocol controls data access for value, paying users with its Solana-based Token to validate and stake data and earn.   The EdgeIn Protocol allows users to publish, exchange, and consume data in a sustainable economic framework. &#x20;
 
-The more the users use the platform, validating and adding data and services, the more tokens they will receive from it and the community over time.  EdgeIn Protocol provides a framework for self-sovereign data services and marketplaces using the EdgeIn utility token to stake on data for curation and buy & sell data.
+EdgeIn Protocol's value is easily seen in the vast world of AI and data science, where data providers publish data and data scientists select suitable datasets for training.  EdgeIn Protocol provides a framework for data publishing and consumption of AI training data with a simple, publisher-controlled economic model. The more the users use the platform, validating and adding data and services, the more tokens they will receive from it and the community over time.  EdgeIn Protocol provides a framework for self-sovereign data services and marketplaces using the EdgeIn utility token to stake on data for curation and buy & sell data.
 
-EdgeIn Protocol makes publishing and consuming data services accessible.  EdgeIn is designed to have a very long duration of increasing value for data and services, thus, a slow edge or slope of the curves underlying protocol assets; asset publishers can control their own price and market value.  The EdgeIn Protocol provides data access services to datasets as well as a DeFi mechanism for dynamic pricing.
+EdgeIn Protocol makes publishing and consuming data services accessible.  EdgeIn is designed to have a very long duration of increasing value for data and services, thus, a slow edge or slope of the curves underlying protocol assets; asset publishers can control their own price and market value.  The EdgeIn Protocol provides data access services to datasets and a DeFi mechanism for dynamic pricing.
 
 EdgeIn Protocol draws inspiration from multiple projects on data access and the SoFi application Friend.Tech, providing an onramp for aligning social interactions around financial activities and data services.  EdgeIn Protocol is an evolutionary approach to social pricing and decentralized data services to create a sustainable application framework for data marketplaces.
 
