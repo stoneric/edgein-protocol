@@ -6,7 +6,7 @@ description: EdgeIn Roadmap
 
 Jan 2024 - Jun 2024                                                           Airdrop & Earlybird Staking
 
-Jul 2024 - Dec 2024                                                           DAO Voting
+Jul 2024 - Dec 2024                                                           DAO Governance
 
 Jan 2025 - Jun 2025                                                           Data Minting & Data Vault
 
@@ -28,4 +28,4 @@ Jul 2027 - Dec 2027                                                            C
 
 
 
-© 2024 EdgeInDAO Limited
+© 2024 EdgeIn Protocol Limited

@@ -18,4 +18,4 @@ As a company, you frequently possess a substantial amount of data and may seek t
 
 
 
-© 2024 EdgeInDAO Limited
+© 2024 EdgeIn Protocol Limited
