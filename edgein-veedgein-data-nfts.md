@@ -12,7 +12,7 @@ Each data service gets its data NFT and designates a bonding curve - price - tha
 
 Staking EdgeIn generates veEdgeIn - Voting EdgeIn, which can be used in the EdgeIn governance platform.  Using veEdgeIn, community members can determine the roadmap and direction of the platform by engaging in our governance system.  Staking EdgeIn for veEdgeIn is accomplished by locking tokens from 1 to 1200 months ( 1 month to 100 years) and is rewarded with a multiplier for every five years of staking, up to 20 times the staked amount for 100-year locks.  veEdgeIn can be redeemed anytime or unstaked, thus relieving the user of assets or data sets they would control or manage.
 
-Fees are charged and split between protocol and publishers on a 50/50 basis and depend upon the time locked on a sliding scale from 0.5% to 5% ( 1 month to 100 years).  Additionally, publishers pay a percentage out to validators for their work.
+Fees are charged and split between protocol and publishers on a 97%/3% (3% Protocol Fee)  and depend upon the time locked on a sliding scale from 0.5% to 5% ( 1 month to 100 years).  Additionally, publishers pay a percentage out to validators for their work.
 
 EdgeIn smart contracts (Solana Programs) make it easy to publish both data  NFTs and data services (deploy and mint data NFTs and datatokens) and consume data services (spend datatokens). This allows EdgeIn to have a composable, simple setup and makes EdgeIn Protocol a set of tools rather than a platform.\
 \
