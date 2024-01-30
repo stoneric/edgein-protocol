@@ -40,26 +40,26 @@ veEdgeIn multiplier up to 20x for 5-year increments (20 x 5 = 100) with no incen
 
 | Duration in Years     | veEdgeIn Multiplier |
 | --------------------- | ------------------- |
-| 5 Years (60 Months)   | 2x                  |
-| 10 Years (120 Months) | 3x                  |
-| 15 Years (180 Months) | 4x                  |
-| 20                    | 5x                  |
-| 25                    | 6x                  |
-| 30                    | 7x                  |
-| 35                    | 8x                  |
-| 40                    | 9x                  |
-| 45                    | 10x                 |
-| 50                    | 11x                 |
-| 55                    | 12x                 |
-| 60                    | 13x                 |
-| 65                    | 14x                 |
-| 70                    | 15x                 |
-| 75                    | 16x                 |
-| 80                    | 17x                 |
-| 85                    | 18x                 |
-| 90                    | 19x                 |
-| 95                    | 20x                 |
-| 100 (1200 Months)     | 21x                 |
+| 5 Years (60 Months)   | 20x                 |
+| 10 Years (120 Months) | 30x                 |
+| 15 Years (180 Months) | 40x                 |
+| 20                    | 50x                 |
+| 25                    | 60x                 |
+| 30                    | 70x                 |
+| 35                    | 80x                 |
+| 40                    | 90x                 |
+| 45                    | 100x                |
+| 50                    | 110x                |
+| 55                    | 120x                |
+| 60                    | 130x                |
+| 65                    | 140x                |
+| 70                    | 150x                |
+| 75                    | 160x                |
+| 80                    | 170x                |
+| 85                    | 180x                |
+| 90                    | 190x                |
+| 95                    | 200x                |
+| 100 (1200 Months)     | 210x                |
 
 
 
