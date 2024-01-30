@@ -32,4 +32,4 @@ EdgeIn assets can be valued within 1-1200 months and provide incentives for crea
 
 
 
-© 2024 EdgeInDAO Limited
+© 2024 EdgeIn Protocol Limited
