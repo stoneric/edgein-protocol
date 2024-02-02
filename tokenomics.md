@@ -4,24 +4,12 @@ description: Token details for EdgeIn
 
 # Tokenomics
 
-Token Address:     [2HT3GCwdeT41CASnKZME6pgTh18QtK4Nkx7MVr8ufiwL](https://explorer.solana.com/address/2HT3GCwdeT41CASnKZME6pgTh18QtK4Nkx7MVr8ufiwL)
-
-DAO Multisig:        [H5GdfNPaaEjDwoAJkU1CnmpeXKouYM73d7HUULdMrKkW](https://explorer.solana.com/address/H5GdfNPaaEjDwoAJkU1CnmpeXKouYM73d7HUULdMrKkW)
-
-Github:                   [https://github.com/EdgeIn-DAO/](https://github.com/EdgeIn-DAO/)\
-Whitelist:               [Whitelist Form](https://co11.co/NfK9Q)
-
-\
 Token Ticker:                          EdgeIn\
 Total Supply:                          100,000,000
 
-Category:                                Web3 Social\
-Blockchain:                             Solana\
+Category:                                Web3 Social
 
-
-Private Rounds&#x20;
-
-Jan 1, 2024 - Dec 31, 2024&#x20;
+Private Rounds:                     $6MM Cap
 
 
 
