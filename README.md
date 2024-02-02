@@ -4,7 +4,7 @@ description: 'Your Data, Your Keys, Your Earnings: The EdgeIn Protocol'
 
 # EdgeIn
 
-Edgein Protocol controls data access for value, paying users with its Solana-based Token to validate and stake data and earn.   The EdgeIn Protocol allows users to publish, exchange, and consume data in a sustainable economic framework.  Buying a share of a dataset gives you access and a license to its use, but it could be speculative as data assets appreciate and depreciate in value. &#x20;
+Edgein Protocol controls data access for value, paying users to validate and stake data and earn.   The EdgeIn Protocol allows users to publish, exchange, and consume data in a sustainable economic framework.  Buying a share of a dataset gives you access and a license to its use, but it could be speculative as data assets appreciate and depreciate in value. &#x20;
 
 EdgeIn Protocol allows data publishers to establish a steady-state line of the value of any dataset as consumers pay for data services.
 
