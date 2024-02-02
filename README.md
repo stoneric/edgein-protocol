@@ -12,9 +12,7 @@ EdgeIn Protocol makes publishing and consuming data services accessible.  EdgeIn
 
 EdgeIn Protocol draws inspiration from multiple projects on data access and the SoFi application Friend.Tech, providing an onramp for aligning social interactions around financial activities and data services.  EdgeIn Protocol is an evolutionary approach to social pricing and decentralized data services to create a sustainable application framework for data marketplaces.
 
-
-
-_Edge In - Don't Ape In_
+_**Edge In - Don't Ape In**_
 
 The EdgeIn protocol solves the problem with Friend.Tech and unlocks unlimited potential in decentralized pricing mechanisms where a community determines value.  Friend.Tech epitomizes the get-rich-quick approach of Aping In with an immutable, steep valued curve:
 
