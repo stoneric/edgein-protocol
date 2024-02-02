@@ -4,7 +4,7 @@ description: EdgeIn Roadmap
 
 # Roadmap
 
-Mar 2024 - Jun 2024                                                          Airdrop & Earlybird Staking
+Mar 2024 - Jun 2024                                                          Airdrop & Staking
 
 Jul 2024 - Dec 2024                                                           DAO Governance
 
