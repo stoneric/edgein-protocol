@@ -13,6 +13,8 @@ Whitelist:               [Whitelist Form](https://co11.co/NfK9Q)
 
 \
 Token Ticker:                          EdgeIn\
+Total Supply:                          100,000,000
+
 Category:                                Web3 Social\
 Blockchain:                             Solana\
 
