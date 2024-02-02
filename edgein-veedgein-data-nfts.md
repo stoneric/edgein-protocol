@@ -14,7 +14,7 @@ Staking EdgeIn generates veEdgeIn - Voting EdgeIn, which can be used in the Edge
 
 Fees are charged and split between protocol and publishers on a 97%/3% (3% Protocol Fee).  Additionally, publishers pay a percentage out to validators for their work.
 
-EdgeIn smart contracts (Solana Programs) make it easy to publish both data  NFTs and data services (deploy and mint data NFTs and datatokens) and consume data services (spend datatokens). This allows EdgeIn to have a composable, simple setup and makes EdgeIn Protocol a set of tools rather than a platform.\
+EdgeIn smart contracts make it easy to publish both data  NFTs and data services (deploy and mint data NFTs and datatokens) and consume data services (spend datatokens). This allows EdgeIn to have a composable, simple setup and makes EdgeIn Protocol a set of tools rather than a platform.\
 \
 Variable, rebasable quadratic curve to 100 years:
 
