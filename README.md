@@ -14,7 +14,7 @@ EdgeIn Protocol draws inspiration from multiple projects on data access and the 
 
 _**Edge In - Don't Ape In**_
 
-The EdgeIn protocol solves the problem with Friend.Tech and unlocks unlimited potential in decentralized pricing mechanisms where a community determines value.  Friend.Tech epitomizes the get-rich-quick approach of Aping In with an immutable, steep valued curve:
+The EdgeIn protocol solves the problem with Friend.Tech, and unlocks unlimited potential in decentralized pricing mechanisms where a community determines value.  Friend.Tech epitomizes the get-rich-quick approach of Aping In with an immutable, steep valued curve:
 
 <figure><img src=".gitbook/assets/Screenshot 2024-01-06 at 10.25.57 AM.png" alt="" width="375"><figcaption><p>The Friend.Tech curve is based on the formula <code>Price in ETH = (Number of Shares)² / 16000</code>, illustrating how the price in ETH changes with the number of shares.  This curve is immutable in Friend.Tech.</p></figcaption></figure>
 
