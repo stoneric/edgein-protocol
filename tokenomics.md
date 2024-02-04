@@ -7,7 +7,7 @@ description: Token details for EdgeIn
 Token Ticker:                          EdgeIn\
 Total Supply:                          100,000,000
 
-Category:                                Web3 Social
+Category:                                Social DeFi
 
 Private Rounds:                     $6MM Cap
 
