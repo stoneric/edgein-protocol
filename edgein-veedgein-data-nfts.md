@@ -6,15 +6,15 @@ description: Datatoken, Voting Token and data NFTs
 
 EdgeIn Protocol is an on-ramp and off-ramp for valuable data assets in crypto ecosystems, using data NFTs and datatokens to interact with decentralized data services.  A data NFT is a non-fungible token representing a valued data set associated with actual information, which may be used with a data service defined by this protocol. &#x20;
 
-A data token is a fungible token for a given data service, which means you can access the service; it's a license over the underlying data you will interact with in any given data service.  Data services may persist over time, and significant data sets are generational (50 years) or multi-generational (more than 100 years).  However, the mark of a genuinely generational data set is that buyers buy over long periods, decades, versus mere months or years.
+A data token is a fungible token for a given data service, which means you can access the service; it's a license over the underlying data you will interact with in any given data service.  Data services may persist over time, and significant data sets are generational (50 years) or multi-generational (more than 100 years).  A genuinely generational data set is buyers buying over long periods, decades, versus months or years.
 
-Each data service gets its data NFT and designates a bonding curve - price - that each user wants to set for their data NFT.  Bonding curves in the EdgeIn protocol are time-based, and the data publisher can select from 1-1200 months, with 25, 50-year "Generational" and 100-year "Multi-Generational" bonding curves as options for each data NFT.  If they like, publishers of data NFTs may rebase or reprice them at any time.  &#x20;
+Each data service gets its data NFT and designates a bonding curve - price - that each user wants to set for their data NFT.  Bonding curves in the EdgeIn protocol are time-based, and the data publisher can select from 1-1200 months, with 25, and 50-year "Generational," and 100-year "Multi-Generational" bonding curves as options for each data NFT.  If they like, publishers of data NFTs may rebase or reprice them at any time.  &#x20;
 
 Staking EdgeIn generates veEdgeIn - Voting EdgeIn, which can be used in the EdgeIn governance platform.  Using veEdgeIn, community members can determine the roadmap and direction of the platform by engaging in our governance system.  Staking EdgeIn for veEdgeIn is accomplished by locking tokens from 1 to 1200 months ( 1 month to 100 years) and is rewarded with a multiplier for every five years of staking, up to 20 times the staked amount for 100-year locks.  veEdgeIn can be redeemed anytime or unstaked, thus relieving the user of assets or data sets they would control or manage.
 
-Fees are charged and split between protocol and publishers on a 97%/3% (3% Protocol Fee).  Additionally, publishers pay a percentage out to validators for their work.
+Fees are charged and split between publishers and protocol on a 97%/3% (97% publishers/validators, 3% Protocol Fee).  Additionally, publishers pay a percentage out to validators for their work.
 
-EdgeIn smart contracts (Solana Programs) make it easy to publish both data  NFTs and data services (deploy and mint data NFTs and datatokens) and consume data services (spend datatokens). This allows EdgeIn to have a composable, simple setup and makes EdgeIn Protocol a set of tools rather than a platform.\
+EdgeIn smart contracts make it easy to publish bonded data  NFTs and data services (deploy and mint data NFTs and datatokens) and consume data services (spend datatokens). This allows EdgeIn to have a composable, simple setup and makes EdgeIn Protocol a set of tools rather than a platform.\
 \
 Variable, rebasable quadratic curve to 100 years:
 
