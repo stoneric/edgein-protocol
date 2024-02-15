@@ -5,7 +5,7 @@ description: Token details for EdgeIn
 # Tokenomics
 
 Token Ticker:                          EdgeIn\
-Total Supply:                          100,000,000
+Total Supply:                          300,000,000
 
 Category:                                Social DeFi
 
