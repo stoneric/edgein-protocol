@@ -13,7 +13,7 @@ Total Supply:                          300,000,000
 
 Category:                                Social DeFi
 
-Private Rounds:                     $1MM Soft Cap, $6MM Hard Cap
+
 
 The EdgeIn Tokenomics plans for a private and public sale and five years of operations.
 
