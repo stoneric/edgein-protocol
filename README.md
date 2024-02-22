@@ -1,10 +1,10 @@
 ---
-description: 'Your Data, Your Keys, Your Earnings: The EdgeIn Protocol'
+description: Don't Ape In, EdgeIn.
 ---
 
-# EdgeIn
+# EdgeIn Protocol
 
-Edgein Protocol controls data access for value, paying users to validate and stake data and earn.   The EdgeIn Protocol allows users to publish, exchange, and consume data in a sustainable economic framework.  Buying a share of a dataset gives you access and a license to its use, but it could be speculative as data assets appreciate and depreciate in value. &#x20;
+Edgein Protocol controls data access for value, paying users to validate and stake data and earn.   The EdgeIn Protocol allows users to publish, exchange, and consume data in a sustainable economic framework.  Buying a share of a dataset gives you access and a license to its use, but it could be speculative as data assets appreciate and depreciate. &#x20;
 
 EdgeIn Protocol allows data publishers to establish a steady-state line of the value of any dataset as consumers pay for data services.
 
@@ -14,7 +14,7 @@ EdgeIn Protocol draws inspiration from multiple projects on data access and the 
 
 _**Edge In - Don't Ape In**_
 
-The EdgeIn protocol solves the problem with Friend.Tech, and unlocks unlimited potential in decentralized pricing mechanisms where a community determines value.  Friend.Tech epitomizes the get-rich-quick approach of Aping In with an immutable, steep valued curve:
+The EdgeIn protocol solves the problem of long-term and short-term asset valuation by enabling a new approach to pricing where a community determines value.  Friend.Tech epitomizes the get-rich-quick approach of Aping In with an immutable, steep valued curve:
 
 <figure><img src=".gitbook/assets/Screenshot 2024-01-06 at 10.25.57 AM.png" alt="" width="375"><figcaption><p>The Friend.Tech curve is based on the formula <code>Price in ETH = (Number of Shares)² / 16000</code>, illustrating how the price in ETH changes with the number of shares.  This curve is immutable in Friend.Tech.</p></figcaption></figure>
 
