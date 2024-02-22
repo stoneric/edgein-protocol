@@ -2,7 +2,7 @@
 description: Earn and invest in Data
 ---
 
-# EdgeIn Protocol
+# EdgeIn Overview
 
 The EdgeIn Protocol is an on-ramp for data services using crypto ecosystems based on data NFTs and datatokens in a governance framework. \
 \
