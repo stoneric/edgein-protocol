@@ -4,13 +4,11 @@ description: Don't Ape In, EdgeIn.
 
 # EdgeIn Protocol
 
-Edgein Protocol controls data access for value, paying users to validate and stake data and earn.   The EdgeIn Protocol allows users to publish, exchange, and consume data in a sustainable economic framework.  Buying a share of a dataset gives you access and a license to its use, but it could be speculative as data assets appreciate and depreciate. &#x20;
+Edgein Protocol establishes and controls data access for value, where users can validate and stake data and earn.   In EdgeIn Protocol, data assets are the RWA, or Real World Asset, and the protocol provides dynamic pricing and earning opportunities in a DeFi-enabled environment.   The EdgeIn Protocol allows users to publish, exchange, and consume data in a sustainable economic framework.  Buying a share of a dataset gives you access and a license to its use, but it could be speculative as data assets appreciate and depreciate. &#x20;
 
 EdgeIn Protocol allows data publishers to establish a steady-state line of the value of any dataset as consumers pay for data services.
 
-EdgeIn Protocol makes publishing and consuming data services accessible.  EdgeIn is designed to have a very long duration of increasing value for data and services, thus, a slow edge or slope of the curves underlying protocol assets; asset publishers can control their own price and market value.  The EdgeIn Protocol provides data access services to datasets and a DeFi mechanism for dynamic pricing.
-
-EdgeIn Protocol draws inspiration from multiple projects on data access and the SoFi application Friend.Tech, providing an onramp for aligning social interactions around financial activities and data services.  EdgeIn Protocol is an evolutionary approach to social pricing and decentralized data services to create a sustainable application framework for data marketplaces.
+EdgeIn Protocol makes publishing and consuming data services accessible.  EdgeIn is designed to have a very long duration of increasing value for data and services, thus, a slow edge or slope of the curves underlying protocol assets; asset publishers can control their own price and market value.  The EdgeIn Protocol provides data access services and a DeFi mechanism for dynamic pricing.  EdgeIn Protocol is an evolutionary approach to social pricing and decentralized data services to create a sustainable application framework for data marketplaces.
 
 _**Edge In - Don't Ape In**_
 
